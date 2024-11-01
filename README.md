@@ -6,7 +6,7 @@
 :link: https://go.dev/play/
 
 ## Estudos
-- [Formação Go Developer - DIO](https://web.dio.me/track/formacao-go-developer)
+- [Formação Go Developer](https://web.dio.me/track/formacao-go-developer) - DIO
 
 ## Rodar o projeto
 ```
